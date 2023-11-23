@@ -1,0 +1,5 @@
+Gini ( Outlook|playGame ),0.0000
+Gini ( Temp|playGame ),0.0000
+Gini ( Humidity|playGame ),0.0000
+Gini ( Wind|playGame ),0.0000
+Subclass : Outlook has maximum giniIndex. Hence it will be selected as the root for splitting.

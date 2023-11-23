@@ -1,0 +1,15 @@
+outlook,temperaturNum,temperatureNom,HumidityNum,HumidityNom,Windy,Play
+overcast,83,hot,86,high,false,yes
+overcast,64,cool,65,normal,true,yes
+overcast,72,mild,90,high,true,yes
+overcast,81,hot,75,normal,false,yes
+rainy,70,mild,96,high,false,yes
+rainy,68,cool,80,normal,false,yes
+rainy,65,cool,70,normal,true,no
+rainy,75,mild,80,normal,false,yes
+rainy,71,mild,91,high,true,no
+sunny,85,hot,85,high,false,no
+sunny,80,hot,90,high,true,no
+sunny,72,mild,95,high,false,no
+sunny,69,cool,70,normal,false,yes
+sunny,75,mild,70,normal,true,yes
